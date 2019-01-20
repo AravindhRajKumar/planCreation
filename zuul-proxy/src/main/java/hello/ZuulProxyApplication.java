@@ -6,7 +6,7 @@ import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 import org.springframework.cloud.netflix.zuul.EnableZuulProxy;
 
 /**
-sample program -- for git changes
+sample program -- for git changes ==1
 **/
 
 @EnableZuulProxy
