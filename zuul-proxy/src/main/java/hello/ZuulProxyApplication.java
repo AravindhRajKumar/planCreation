@@ -7,6 +7,7 @@ import org.springframework.cloud.netflix.zuul.EnableZuulProxy;
 
 /**
 sample program -- for git changes
+to validate git amend command.
 **/
 
 @EnableZuulProxy
